@@ -1,0 +1,28 @@
+.buy , .rent , .inv{
+padding: 10px;
+background-color: blue;
+width: auto;
+color: white;
+border-radius: 3px;
+}
+.rent{
+    background-color: green;
+}
+
+.vbtn{
+    color: white;
+    background-color: blue;
+    padding: 2vh 10vh;
+}
+
+.footer-contact button{
+background-color: rgb(255, 255, 255);
+padding: 5px;
+margin: 2px;
+border-radius: 3px;
+color: black;
+}
+
+.footer-contact h2{
+margin-bottom: 0pxcv;
+}
